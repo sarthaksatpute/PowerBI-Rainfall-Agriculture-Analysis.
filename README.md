@@ -21,7 +21,7 @@ This project analyzes the historical impact of the South-West Monsoon (June–Se
 *   **The Efficiency Paradox:** States like Punjab and Tamil Nadu produce the highest yields per millimeter of monsoon rain. This indicates heavy reliance on advanced irrigation networks and alternative weather systems (NE Monsoon) rather than the primary summer monsoon.
 
 ## 📁 Files Included
-*   `Sarthak_Satpute_CPDA_B2.pbix` - The complete, interactive Power BI Dashboard file.
+*   `Rainfall Impact Dashboard.pbix` - The complete, interactive Power BI Dashboard file.
 *   `rain-agriculture.csv` - The raw dataset used for this analysis.
 
 ## 🚀 How to Open
